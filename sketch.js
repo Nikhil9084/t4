@@ -5,7 +5,7 @@ const Body = Matter.Body;
 
 var ball,groundObj,leftSide,rightSide;
 var world;
-var radius = 70;
+var radius = 71;
 
 function preload(){
 
